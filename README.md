@@ -60,7 +60,7 @@ $ github-release release \
     --user ${GITHUB_USERNAME} \
     --repo lab09 \
     --tag v0.1.0.0 \
-    --name "logger" \
+    --name "lease" \
     --description "my first release"
     
 $ export PACKAGE_OS=`uname -s` PACKAGE_ARCH=`uname -m` 
